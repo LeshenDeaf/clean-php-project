@@ -1,0 +1,8 @@
+.sortable {
+    cursor: pointer;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
